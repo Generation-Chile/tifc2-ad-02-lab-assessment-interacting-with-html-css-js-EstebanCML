@@ -1,5 +1,19 @@
 html {
     height: 100%;
     width: 100%;
-  }
-  
+}
+
+/* Todos los elementos H1 serán de color verde */
+h1 {
+    color: green;
+}
+
+/* La clase "azul" aplicará el color azul al texto */
+.azul {
+    color: blue;
+}
+
+/* La identificación "rojo" aplicará el color rojo al texto */
+#rojo {
+    color: red;
+}
